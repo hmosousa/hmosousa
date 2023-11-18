@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fh_go_sousa)](https://twitter.com/h_go_sousa)
+[![HuggingFace](https://img.shields.io/static/v1?label=&message=HuggingFace&color=ffd21e&&&style=flat)](https://huggingface.co/hugosousa)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fh_go_sousa)](https://twitter.com/hmosousa)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-o-sousa/)
 
 
 <!--
